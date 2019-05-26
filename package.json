@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/a-sorokin/thread-creator#readme",
   "dependencies": {
-    "@babel/polyfill": "^7.4.4",
-    "flow-bin": "^0.98.1"
+    "@babel/polyfill": "^7.4.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
