@@ -1,0 +1,25 @@
+{
+  "name": "thread-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "threadCreator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-sorokin/thread-creator.git"
+  },
+  "author": "a-sorokin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-sorokin/thread-creator/issues"
+  },
+  "homepage": "https://github.com/a-sorokin/thread-creator#readme",
+  "dependencies": {
+    "flow-bin": "^0.98.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5"
+  }
+}
